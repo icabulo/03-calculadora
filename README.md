@@ -2,9 +2,9 @@
 
 Aprendiendo React con el canal de YouTube de FreeCodeCamp en español. Los proyectos siguen el video: https://www.youtube.com/watch?v=6Jfk8ic3KVk.
 
-## 02 Contador de clics
+## 03 Calculadora interactiva
 
-Crear un contador de clic: tutorial de https://www.youtube.com/watch?v=6Jfk8ic3KVk&t=13923s
+Crear una calculadora: tutorial de https://www.youtube.com/watch?v=6Jfk8ic3KVk&t=13923s.
 
 1.1 Qué aprendí:
 
